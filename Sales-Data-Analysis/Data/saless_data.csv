@@ -1,0 +1,7 @@
+product,category,quantity,price,order_date,region,customer_id
+Product A,Electronic,5,500.0,2024-12-01,North,101
+Product A,Electronics,5,500.0,2024-12-01,North,101
+Product B,Furniture,2,1500.0,2024-12-02,South,102
+Product C,Electronics,1,300.0,2024-12-01,East,103
+Product D,Clothing,4,200.0,2024-12-03,West,104
+Product E,Furniture,3,700.0,2024-12-04,North,105
